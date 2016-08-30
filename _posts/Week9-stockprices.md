@@ -7,5 +7,6 @@ Alphbet Class A, Netflix Inc and Microsoft Corp. There are financial services an
 
 It's also very obvious there's a huge difference among the three stocks with the highest prices. The chart offers a more vivid and visual comparision. The most valued stock, Apple Inc, has 1,047，319 volumes， the second highest priced stock Facebook Inc has a price volume of 758,542, and the third one Hershey Foods Corp has 389.471 volumes. Apple has more than 38 percent compared to Facebook, and is 2.7 times of Hershey. 
 
--Link to original data and website: http://www.barchart.com/stocks/pricevol.php
--Link to Google Sheet: https://docs.google.com/a/u.northwestern.edu/spreadsheets/d/1P51mD8rZLA2GmyiRJF7oV52B1EyfM1Jri3IcH4N3kJk/edit?usp=sharing
+
+Link to original data and website: http://www.barchart.com/stocks/pricevol.php
+Link to Google Sheet: https://docs.google.com/a/u.northwestern.edu/spreadsheets/d/1P51mD8rZLA2GmyiRJF7oV52B1EyfM1Jri3IcH4N3kJk/edit?usp=sharing
