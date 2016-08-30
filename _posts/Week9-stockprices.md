@@ -9,4 +9,5 @@ It's also very obvious there's a huge difference among the three stocks with the
 
 
 Link to original data and website: http://www.barchart.com/stocks/pricevol.php
+
 Link to Google Sheet: https://docs.google.com/a/u.northwestern.edu/spreadsheets/d/1P51mD8rZLA2GmyiRJF7oV52B1EyfM1Jri3IcH4N3kJk/edit?usp=sharing
