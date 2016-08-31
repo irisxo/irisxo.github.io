@@ -4,3 +4,5 @@ I sorted out where the crimes happened. And then created a pie table in the newl
 
 The angle of the story that interests me would be exploring the reasons and current state of those areas and see whether there are new trends in terms of crimes. 
 
+<img src="ChicagoCrime.png">
+
