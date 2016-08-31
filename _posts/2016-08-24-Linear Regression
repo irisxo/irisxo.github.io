@@ -1,0 +1,5 @@
+I did a linear regression on the population of the United States from 1990-2015. The chart shows that the statistics are relatively in a linear relationship. I predict the U.S. population will continue to increase, but at a lower pace than before. 
+
+However, the r^2  is 0.72046, which is smaller than 0.8. That means a linear regression might not fully explain the dataset. It’s because population does not necessarily increase with time going (though usually it’s the trend). The number of population has to be calculated with both the number of newborn babies and the number of deaths. When deaths number is bigger than the number of births, the population will decrease, which makes it non-linear regression. 
+
+Graph: 
